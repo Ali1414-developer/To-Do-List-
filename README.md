@@ -3,6 +3,8 @@
 A modern, responsive, and interactive To-Do List web application built using **HTML, CSS, and JavaScript**.  
 This app helps users manage daily tasks efficiently with features like task tracking, filtering, searching, and editing — all stored locally in the browser.
 ![Project UI](Assets/Todo.png)
+![Project UI](Assets/Todo2.png)
+![Project UI](Assets/Todo3.png)
 
 ## 🚀 Features
 
@@ -54,13 +56,7 @@ This app helps users manage daily tasks efficiently with features like task trac
 
 All tasks are stored in **local storage**, so data remains even after refreshing the page.
 
----
 
-## 📸 Preview
-
-<img width="100%" alt="ToDo App Preview" src="https://via.placeholder.com/1000x500.png?text=To-Do+App+Preview">
-
----
 
 ## 🎯 Learning Outcomes
 
